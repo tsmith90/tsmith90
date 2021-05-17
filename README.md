@@ -6,7 +6,7 @@
 - 💬 Please contact me with any questions or comments about my work!
 - 📫 How to reach me -> tsmith90@my.westga.edu
 
-- 🔭 I’m currently working on DS&A for interviewing by practicing Leetcode daily. My goal is always O(n) or better! 
+- 🔭 I’m currently working on DS&A for interviewing by practicing Leetcode daily.
 - Pictured -> 33. Search in Rotated Sorted Array (medium)
 ![image](https://user-images.githubusercontent.com/42604905/118477752-9c6bcd80-b741-11eb-9b85-0e110e623445.png)
 
