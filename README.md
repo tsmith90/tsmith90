@@ -7,8 +7,7 @@
 - 📫 How to reach me -> tsmith90@my.westga.edu
 
 - 🔭 I’m currently working on DS&A for interviewing by practicing Leetcode daily. My goal is always O(n) or better! 
-- I can't believe this is a medium! (33. Search in Rotated Sorted Array)
-- Most of the easy questions are way more difficult! 
+- Pictured -> 33. Search in Rotated Sorted Array (medium)
 ![image](https://user-images.githubusercontent.com/42604905/118477752-9c6bcd80-b741-11eb-9b85-0e110e623445.png)
 
 
