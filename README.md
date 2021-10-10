@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I'm Todd Smith and I'm completing my Master of Science in Applied Computer Science degree in the summer of 2021. 
+- ⚡ I'm Todd Smith and I have a Master of Science in Applied Computer Science degree in the summer of 2021. 
 - ⚡ I'm very interested in remote job opportunities.
 
 - 💬 Please contact me with any questions or comments about my work!
